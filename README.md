@@ -1,7 +1,7 @@
 # roll20upgrade
 
 ## Installation:
-Get the [Web Override] {https://chrome.google.com/webstore/detail/web-override/lllllobkincmdnjfkbknjacacmnlajll?hl=en-US} chrome extension, download web_override.json, and import it in web override.
+Get the [Web Override](https://chrome.google.com/webstore/detail/web-override/lllllobkincmdnjfkbknjacacmnlajll?hl=en-US) chrome extension, download web_override.json, and import it in web override.
 
 ## Features:
 ### Hotkeys:
