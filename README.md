@@ -7,7 +7,7 @@ Get the [Web Override](https://chrome.google.com/webstore/detail/web-override/ll
 ### Hotkeys:
 - **ctrl +**: zoom map in
 - **ctrl -**: zoom map out
-- **ctrl L**: select lighting layer
+- **ctrl ,**: select lighting layer
 
 ### Display Improvements:
 #### Page Toolbar:
